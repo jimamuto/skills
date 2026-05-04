@@ -1,0 +1,3 @@
+display_name: To PRD
+short_description: Turn context into PRD issue.
+default_prompt: Use the to-prd skill to synthesize the current conversation and codebase context into a PRD and publish it to the project issue tracker.
