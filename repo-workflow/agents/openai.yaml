@@ -1,0 +1,3 @@
+display_name: Repo Workflow
+short_description: Work safely and consistently inside software repositories.
+default_prompt: Use the repo-workflow skill to inspect this repository, make the requested change, preserve unrelated user edits, and verify the result with appropriate local commands.
