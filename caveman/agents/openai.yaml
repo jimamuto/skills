@@ -1,0 +1,4 @@
+interface:
+  display_name: "Caveman"
+  short_description: "Ultra-brief technical communication mode."
+  default_prompt: "Use the caveman skill to respond in ultra-compressed technical language while preserving accuracy."
