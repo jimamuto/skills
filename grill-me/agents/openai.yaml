@@ -1,0 +1,3 @@
+display_name: Grill Me
+short_description: Stress-test plans one question at a time.
+default_prompt: Use the grill-me skill to interview me relentlessly about this plan, ask one question at a time, explore the codebase when it can answer the question, and provide your recommended answer for each question.
