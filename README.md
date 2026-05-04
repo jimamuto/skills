@@ -1,6 +1,6 @@
 # Codex Skills
 
-Portable global skills for Codex.
+Global skills for coding agents.
 
 ## Install
 
