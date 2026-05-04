@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write a Skill"
+  short_description: "Create well-structured agent skills."
+  default_prompt: "Use the write-a-skill skill to create a new agent skill with proper structure, progressive disclosure, and bundled resources."
