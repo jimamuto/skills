@@ -24,4 +24,5 @@ $HOME\.codex\skills
 
 ## Skills
 
+- `handoff`: Compact the current conversation into a handoff document for another agent to pick up.
 - `repo-workflow`: A general-purpose repository workflow skill for working safely across unfamiliar or active codebases.
