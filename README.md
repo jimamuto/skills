@@ -24,5 +24,6 @@ $HOME\.codex\skills
 
 ## Skills
 
+- `impeccable`: A comprehensive frontend design skill for shaping, critiquing, polishing, and iterating on UI with visual and UX guidance.
 - `handoff`: Compact the current conversation into a handoff document for another agent to pick up.
 - `repo-workflow`: A general-purpose repository workflow skill for working safely across unfamiliar or active codebases.
