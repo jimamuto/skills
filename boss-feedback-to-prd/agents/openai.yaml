@@ -1,0 +1,4 @@
+interface:
+  display_name: "Boss Feedback to PRD"
+  short_description: "Turn manager feedback into scoped PRDs"
+  default_prompt: "Use $boss-feedback-to-prd to analyze stakeholder feedback against the current codebase and draft a PRD."
