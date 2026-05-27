@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "toolPrefix": "mcp",
+    "idleTimeout": 10
+  },
+  "mcpServers": {
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ],
+      "lifecycle": "lazy",
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_PERSONAL_ACCESS_TOKEN}"
+      },
+      "directTools": [
+        "create_or_update_file",
+        "search_repositories",
+        "create_repository",
+        "get_file_contents",
+        "push_files",
+        "create_issue",
+        "create_pull_request",
+        "fork_repository",
+        "create_branch",
+        "list_commits",
+        "list_issues",
+        "update_issue",
+        "add_issue_comment",
+        "search_code",
+        "search_issues",
+        "get_pull_request",
+        "list_pull_requests"
+      ]
+    },
+    "cloudflare-api": {
+      "url": "https://mcp.cloudflare.com/mcp",
+      "lifecycle": "lazy"
+    }
+  },
+  "imports": [
+    "claude-code"
+  ]
+}

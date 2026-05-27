@@ -2,6 +2,8 @@
 
 Global, reusable skills for coding agents. The skills use the common `SKILL.md` layout and can be copied into any agent runtime that supports file-based skills.
 
+For restoring this Pi setup on another device, see [`docs/pi-replication.md`](docs/pi-replication.md).
+
 ## Install
 
 Run this from the repository root:
